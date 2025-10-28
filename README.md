@@ -109,7 +109,8 @@ provides customers with a seamless shopping experience.
 <img width="1051" height="355" alt="image" src="https://github.com/user-attachments/assets/b6afd197-7900-481d-adeb-8c9eb67cbe37" />
 
 
-<img width="1051" height="355" alt="image" src="https://github.com/user-attachments/assets/185824ed-8845-4b03-837f-4a8d0ba4650d" />
+<img width="1054" height="553" alt="image" src="https://github.com/user-attachments/assets/75fe8753-9174-42a2-bf72-2d9fed7fdc03" />
+
 
 
 <h3>Checkout Page</h3>
@@ -123,7 +124,7 @@ provides customers with a seamless shopping experience.
 <img width="1046" height="478" alt="image" src="https://github.com/user-attachments/assets/adf56197-dd85-4e8a-9823-5482f09c1efb" />
 
 
-<img width="1046" height="478" alt="image" src="https://github.com/user-attachments/assets/f8dffc45-2cb4-420b-bb34-52e6046b83a6" />
+<img width="1054" height="553" alt="image" src="https://github.com/user-attachments/assets/66bfbcdc-ffbd-48bc-ae76-c84a29e5e01c" />
 
 
 <h3>Responsive Mode</h3>
