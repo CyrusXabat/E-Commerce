@@ -19,7 +19,7 @@ provides customers with a seamless shopping experience.
 * <strong> Requirements to run this project: VSCode IDE and XAMPP </strong>
 * <Strong> XAMPP Tutorial: [Click Here](https://www.simplilearn.com/tutorials/php-tutorial/php-using-xampp)</strong>
 
-![Screenshot (1852)]
+
 <img width="1600" height="818" alt="image" src="https://github.com/user-attachments/assets/8445a4d8-a344-4045-a0b3-b8798ef50264" />
 
 
@@ -30,7 +30,8 @@ provides customers with a seamless shopping experience.
 <h2>Screenshots:</h2>
 
 
-![Screenshot (1811)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/dda46b41-90e8-4a82-a223-a03076bf08a2)
+<img width="1295" height="688" alt="image" src="https://github.com/user-attachments/assets/c4cd2965-328d-4ded-b156-ca2044e9f0ad" />
+
 
 
 
