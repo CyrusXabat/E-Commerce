@@ -138,12 +138,10 @@ provides customers with a seamless shopping experience.
 <img width="423" height="636" alt="image" src="https://github.com/user-attachments/assets/29eb26f3-6683-4185-b1ea-9588997d2460" />
 
 
-<img width="423" height="636" alt="image" src="https://github.com/user-attachments/assets/0fa28327-f1a6-4f83-94dc-d166da7c5dd7" />
+<img width="457" height="708" alt="image" src="https://github.com/user-attachments/assets/b90b57e7-b2dc-4d18-9f1e-656cb5afc1b3" />
 
 
-<img width="395" height="651" alt="image" src="https://github.com/user-attachments/assets/66b4b091-6969-43d1-9ffc-3fe5388a76b3" />
-
-
+<h3>Admin Panel</h3>
 <img width="395" height="651" alt="image" src="https://github.com/user-attachments/assets/bb352780-0623-407b-838e-3df41679d559" />
 
 
