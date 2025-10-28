@@ -19,7 +19,9 @@ provides customers with a seamless shopping experience.
 * <strong> Requirements to run this project: VSCode IDE and XAMPP </strong>
 * <Strong> XAMPP Tutorial: [Click Here](https://www.simplilearn.com/tutorials/php-tutorial/php-using-xampp)</strong>
 
-![Screenshot (1852)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/74a0c5fe-993d-434b-bba5-1fffd896960b)
+![Screenshot (1852)]
+<img width="1600" height="818" alt="image" src="https://github.com/user-attachments/assets/8445a4d8-a344-4045-a0b3-b8798ef50264" />
+
 
 <h2>Documentation:</h2>
 
