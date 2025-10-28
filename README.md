@@ -23,166 +23,130 @@ provides customers with a seamless shopping experience.
 <img width="1600" height="818" alt="image" src="https://github.com/user-attachments/assets/8445a4d8-a344-4045-a0b3-b8798ef50264" />
 
 
-<h2>Documentation:</h2>
-
-* Documentation Link: [Click Here](https://drive.google.com/drive/folders/1G84rkftNQmzx-yVJlIvC-iQm8gKhpYDG)
-
 <h2>Screenshots:</h2>
 
-
+<h3>Sample Screenshots of the Project</h3>
+<h4>Folder Struvture</h4>
 <img width="1295" height="688" alt="image" src="https://github.com/user-attachments/assets/c4cd2965-328d-4ded-b156-ca2044e9f0ad" />
 
 
 
+<h4>Home Page</h4>
 
+<img width="1295" height="683" alt="image" src="https://github.com/user-attachments/assets/68dc444d-8c63-42b2-bd47-ec90f9f15b20" />
 
-![Screenshot (1812)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/90557398-c7a3-42e1-815a-1b5d3005e64d)
 
+<img width="1285" height="722" alt="image" src="https://github.com/user-attachments/assets/8d7df328-9b91-43d9-87d4-df737f7239a7" />
 
 
-![Screenshot (1813)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/6e1a53c6-8320-4b46-b688-676fa10a4ea1)
+<img width="1046" height="659" alt="image" src="https://github.com/user-attachments/assets/414ea03a-7311-405b-a5e8-6c0618656780" />
 
 
+<img width="1046" height="611" alt="image" src="https://github.com/user-attachments/assets/6e108ee3-852b-473d-a829-eef8c4e03dd5" />
 
 
+<img width="1048" height="613" alt="image" src="https://github.com/user-attachments/assets/07917b57-dbee-4a78-8a8f-d9f037b67142" />
 
-![Screenshot (1814)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/6cad9784-6117-492b-a10d-1428b1cae1b3)
 
+<img width="1047" height="647" alt="image" src="https://github.com/user-attachments/assets/b53b787f-486f-496e-88b2-f8b5a915f07f" />
 
 
+<img width="1045" height="586" alt="image" src="https://github.com/user-attachments/assets/bc34aaab-3c15-4126-aca3-86ce8d9ec9be" />
 
-![Screenshot (1815)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/d2aa5b5d-5ec8-4810-ba88-fee735609c6e)
 
+<img width="1042" height="615" alt="image" src="https://github.com/user-attachments/assets/9a4fc509-282a-490b-b942-dcbe6c79cf71" />
 
 
-![Screenshot (1816)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/6795d657-76ad-44d3-bb35-246b05dd5708)
+<img width="1048" height="663" alt="image" src="https://github.com/user-attachments/assets/073528de-7eaf-4edc-8e55-7f20ee6a3b32" />
 
 
+<h3>Responsive Mode</h3>
+<img width="998" height="646" alt="image" src="https://github.com/user-attachments/assets/a0c43f7e-12ca-4f18-9c28-c51bfabaf553" />
 
-![Screenshot (1817)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/b5ffbfe6-9bca-43d7-bb3a-58bc3655830a)
 
+<img width="1051" height="703" alt="image" src="https://github.com/user-attachments/assets/33b352dd-59ac-45de-bbef-d21b064642a2" />
 
 
+<img width="406" height="662" alt="image" src="https://github.com/user-attachments/assets/5dbb694b-3dde-4fda-ae1c-86ae9ccaa4b3" />
 
-![Screenshot (1818)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/f5d8124f-6714-44e0-9bca-90fd9c29bd3a)
 
+<h3>Log in Page (Responsive Mode)</h3>
+<img width="1085" height="665" alt="image" src="https://github.com/user-attachments/assets/a54ee0e7-b947-4f77-aaaa-505eadf9a9e0" />
 
-![Screenshot (1819)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/b25f68e3-6725-4758-b1d0-1dabf44bf76a)
 
+<img width="1061" height="672" alt="image" src="https://github.com/user-attachments/assets/fd76099e-c0a5-422b-afce-468eaf11d8b0" />
 
 
-![Screenshot (1820)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/0c74ab5b-958d-4517-a0c8-d6357ba9d94e)
 
+<h3>Admin Log in Page</h3>
+<img width="1045" height="545" alt="image" src="https://github.com/user-attachments/assets/1ace2c6d-cb0e-4d28-945e-447215eb001d" />
 
 
+<h3>User Log in Page</h3>
+<img width="1048" height="550" alt="image" src="https://github.com/user-attachments/assets/32d555d8-bbab-488f-ac95-ed08fcb85f11" />
 
-![Screenshot (1821)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/b32804e3-7694-42dd-9784-141cdc3d8e8e)
 
+<h3>Sing Up Page</h3>
+<img width="1022" height="564" alt="image" src="https://github.com/user-attachments/assets/9d6d19a2-3353-4b69-a61b-d370c68e8766" />
 
 
+<h3>On Successful Log in as User</h3>
+<img width="1049" height="520" alt="image" src="https://github.com/user-attachments/assets/528792f0-603d-45f9-b86f-398f3fdb71a2" />
 
 
-![Screenshot (1822)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/2f0b7456-7dee-44da-a03c-44c99275ca46)
+<img width="806" height="484" alt="image" src="https://github.com/user-attachments/assets/42275b8c-7026-4c00-8cbc-5eee54b1ba72" />
 
 
+<h3>Add to Cart</h3>
+<img width="1047" height="499" alt="image" src="https://github.com/user-attachments/assets/265f54d7-f380-4b87-ae5c-87a4361ab71d" />
 
 
-![Screenshot (1823)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/cd27e50a-355d-459b-912b-6eaf9fc4ef23)
+<h3>Shopping Cart</h3>
+<img width="1050" height="550" alt="image" src="https://github.com/user-attachments/assets/27c6dae1-b048-43af-8c5d-89d53a87ff3e" />
 
 
+<h3>After Clearing Shopping Cart</h3>
+<img width="1051" height="355" alt="image" src="https://github.com/user-attachments/assets/b6afd197-7900-481d-adeb-8c9eb67cbe37" />
 
-![Screenshot (1824)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/9ec828d0-fa2d-48cb-8c8e-51cd368220cf)
 
+<img width="1051" height="355" alt="image" src="https://github.com/user-attachments/assets/185824ed-8845-4b03-837f-4a8d0ba4650d" />
 
 
-![Screenshot (1825)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/29c1d07a-bccb-4966-87c7-c26ce37dbe50)
+<h3>Checkout Page</h3>
+<img width="1045" height="604" alt="image" src="https://github.com/user-attachments/assets/4baa041e-e9f6-45f3-8483-4d3c5ad8e020" />
 
 
+<img width="1025" height="564" alt="image" src="https://github.com/user-attachments/assets/00d93c40-b56d-4c2a-9fbd-57fbdfefcc2e" />
 
-![Screenshot (1826)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/1ecbc115-4d55-4488-85a1-51a6aad2f862)
 
+<h3>After Successful Order</h3>
+<img width="1046" height="478" alt="image" src="https://github.com/user-attachments/assets/adf56197-dd85-4e8a-9823-5482f09c1efb" />
 
 
+<img width="1046" height="478" alt="image" src="https://github.com/user-attachments/assets/f8dffc45-2cb4-420b-bb34-52e6046b83a6" />
 
-![Screenshot (1827)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/2f49b7d3-faf4-4c89-a292-dd1acb405234)
 
+<h3>Responsive Mode</h3>
+<img width="1024" height="686" alt="image" src="https://github.com/user-attachments/assets/14a42f0b-fb68-41ef-b1ba-01a94cd7fa2a" />
 
 
+<img width="1029" height="672" alt="image" src="https://github.com/user-attachments/assets/10379b71-1f3f-4f3c-ab6e-1c43a1a227fc" />
 
-![Screenshot (1828)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/f204c769-9244-423d-b076-042dfbe776ae)
 
+<h3>Responsive Checkout Page</h3>
+<img width="423" height="636" alt="image" src="https://github.com/user-attachments/assets/29eb26f3-6683-4185-b1ea-9588997d2460" />
 
 
+<img width="423" height="636" alt="image" src="https://github.com/user-attachments/assets/0fa28327-f1a6-4f83-94dc-d166da7c5dd7" />
 
-![Screenshot (1829)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/c1fc90e0-7580-4193-ba0f-cc6327b09a32)
 
+<img width="395" height="651" alt="image" src="https://github.com/user-attachments/assets/66b4b091-6969-43d1-9ffc-3fe5388a76b3" />
 
 
+<img width="395" height="651" alt="image" src="https://github.com/user-attachments/assets/bb352780-0623-407b-838e-3df41679d559" />
 
-![Screenshot (1830)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/a90ae3d3-6087-4a66-b6c1-057207b46299)
 
-
-
-
-![Screenshot (1831)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/81e87e63-b8b4-4868-9360-d835aea69a63)
-
-
-
-![Screenshot (1832)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/4318ef31-0bbf-4555-aefc-2beb652e5c42)
-
-
-
-![Screenshot (1833)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/e9c4cc54-23cb-49af-9892-6329ef1d5f2b)
-
-
-
-![Screenshot (1834)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/cad826e9-c7f9-4842-9648-913ee4e22206)
-
-
-
-![Screenshot (1835)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/dfcf8d1e-e80a-4acf-a4a0-99698b6f4991)
-
-
-
-
-![Screenshot (1836)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/b8fbc3ed-cff9-4ecf-a4d9-fefe02b79072)
-
-
-![Screenshot (1837)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/85aa4b4b-fb7b-410c-a0de-7d133574ba11)
-
-
-
-![Screenshot (1838)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/37558e9f-34a8-4034-9541-f5eabdd9928d)
-
-
-
-
-![Screenshot (1839)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/ad145548-ebc8-4790-8e7b-54f0afa5803d)
-
-
-
-![Screenshot (1840)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/3530c65d-0098-4cd3-95fc-b46e29f71cef)
-
-
-
-
-![Screenshot (1841)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/23b2941b-0a5c-41f8-81f4-ff15e0b02d0a)
-
-
-
-
-![Screenshot (1842)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/bb64d826-c04f-4443-affa-76efce00c6a0)
-
-
-
-![Screenshot (1843)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/388700df-0475-4ce6-9e4c-0e465d45b383)
-
-
-
-
-![Screenshot (1844)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/39c931c7-4664-4c17-bada-4022f7e1368a)
-
-
+<img width="395" height="651" alt="image" src="https://github.com/user-attachments/assets/b2fa4588-5144-4954-a761-d2ad19b2c281" />
 
 
 ![Screenshot (1845)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/2adf918d-d1a5-480b-8aaf-24532ae4969c)
