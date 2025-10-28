@@ -141,25 +141,23 @@ provides customers with a seamless shopping experience.
 <img width="457" height="708" alt="image" src="https://github.com/user-attachments/assets/b90b57e7-b2dc-4d18-9f1e-656cb5afc1b3" />
 
 
-<h3>Admin Panel</h3>
 <img width="395" height="651" alt="image" src="https://github.com/user-attachments/assets/bb352780-0623-407b-838e-3df41679d559" />
 
 
-<img width="395" height="651" alt="image" src="https://github.com/user-attachments/assets/b2fa4588-5144-4954-a761-d2ad19b2c281" />
+<h3>Admin Panel</h3>
+<img width="1052" height="547" alt="image" src="https://github.com/user-attachments/assets/54d9886d-8981-49d6-bcb5-2e6a2fd41461" />
 
 
-![Screenshot (1845)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/2adf918d-d1a5-480b-8aaf-24532ae4969c)
+<img width="1049" height="586" alt="image" src="https://github.com/user-attachments/assets/e8c9799e-f8be-4f9e-8c95-4e9464d6838b" />
 
 
+<img width="1051" height="540" alt="image" src="https://github.com/user-attachments/assets/8268e2c4-dcce-4e0c-a1c3-76ae68a5a4eb" />
 
 
-![Screenshot (1846)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/75904708-bf5e-4400-95a5-166d2350e813)
+<img width="1053" height="524" alt="image" src="https://github.com/user-attachments/assets/e85e87cd-1dfb-44d6-b9cd-a3652d700e14" />
 
 
-
-
-![Screenshot (1847)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/de18bffa-7d1b-40f9-b3e6-022574c96d8b)
-
+<img width="1046" height="556" alt="image" src="https://github.com/user-attachments/assets/e81232df-8861-478c-946c-be8d4b6068b9" />
 
 
 
