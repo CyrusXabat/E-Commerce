@@ -160,21 +160,19 @@ provides customers with a seamless shopping experience.
 <img width="1046" height="556" alt="image" src="https://github.com/user-attachments/assets/e81232df-8861-478c-946c-be8d4b6068b9" />
 
 
-
-![Screenshot (1848)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/19607e78-737c-4658-b5a0-a85484f96882)
-
-
+<h3>Responsive Mode</h3>
+<img width="1047" height="718" alt="image" src="https://github.com/user-attachments/assets/196f627f-04cb-4c73-89ef-24015b9771e1" />
 
 
-![Screenshot (1849)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/73bba5cf-93a6-4bba-99e6-9094acee97f7)
+<img width="1056" height="635" alt="image" src="https://github.com/user-attachments/assets/656207af-6b80-434b-b0db-342da818b4f8" />
 
 
-![Screenshot (1794)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/98b00afb-c2a0-4691-91e1-e6b615cec96b)
+<h2>Database Structure</h2>
+<img width="1051" height="584" alt="image" src="https://github.com/user-attachments/assets/c0cb600f-e34e-4fdd-bfe5-8f5f837df74c" />
 
 
-
-
-![Screenshot (1795)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/a09320fe-eaeb-469e-a268-f08a1f3b91ab)
+<h3>Source Code Link</h3>
+<img width="1047" height="684" alt="image" src="https://github.com/user-attachments/assets/a4be43d5-04b3-4814-8076-f999ec2fa149" />
 
 
 
