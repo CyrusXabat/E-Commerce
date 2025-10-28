@@ -171,33 +171,23 @@ provides customers with a seamless shopping experience.
 <img width="1051" height="584" alt="image" src="https://github.com/user-attachments/assets/c0cb600f-e34e-4fdd-bfe5-8f5f837df74c" />
 
 
-<h3>Source Code Link</h3>
-<img width="1047" height="684" alt="image" src="https://github.com/user-attachments/assets/a4be43d5-04b3-4814-8076-f999ec2fa149" />
+<h3>Table add_product</h3>
+<img width="1050" height="550" alt="image" src="https://github.com/user-attachments/assets/9cbec628-5b40-4706-8204-391fb4bd7ee7" />
 
 
+<h3>Table admin</h3>
+<img width="1050" height="582" alt="image" src="https://github.com/user-attachments/assets/369ea718-9f85-48cd-9201-7b2feb0f29aa" />
 
 
-![Screenshot (1796)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/258f19b2-4de9-4c19-a4c8-7616e9279994)
+<h3>Table cart</h3>
+<img width="1053" height="541" alt="image" src="https://github.com/user-attachments/assets/9aa39ac6-f77a-4d13-b394-da4c8bb7a6c4" />
 
 
-
-![Screenshot (1797)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/41c70048-dcd7-45e3-9a2c-bc1934927fd3)
-
-
+<h3>Table Ordered</h3>
+<img width="1052" height="585" alt="image" src="https://github.com/user-attachments/assets/6efca796-46f8-4baf-9152-ea5f8983e03a" />
 
 
-![Screenshot (1798)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/4629e968-aefb-464d-b46a-63cd0d45ff52)
-
-
-
-
-![Screenshot (1799)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/c4e8fc6c-a906-4355-9038-bb00f6c0aff6)
-
-
-
-![Screenshot (1800)](https://github.com/DebajyotiTalukder2001/E-Commerce/assets/136104351/84209695-9fb6-4e48-bdc0-35faa0018c16)
-
-
-
+<h3>Table User</h3>
+<img width="1050" height="593" alt="image" src="https://github.com/user-attachments/assets/1b75854d-89be-487b-aa47-4036394c3ef6" />
 
 
